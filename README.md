@@ -1,0 +1,1 @@
+# resumo-do-lab-configurando-db-azure
